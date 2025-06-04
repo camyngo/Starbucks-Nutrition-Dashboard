@@ -1,3 +1,11 @@
+
+<img width="1440" alt="Screenshot 2025-06-03 at 8 14 42 PM" src="https://github.com/user-attachments/assets/6ef1ac64-a68f-461b-ac45-c9a761516033" />
+<img width="1440" alt="Screenshot 2025-06-03 at 8 15 00 PM" src="https://github.com/user-attachments/assets/5bcf0732-6758-4e86-bf8e-a1c33068df7b" />
+<img width="1440" alt="Screenshot 2025-06-03 at 8 15 29 PM" src="https://github.com/user-attachments/assets/1d2ffabb-ec01-41b5-a666-9f7d913b82c9" />
+<img width="1083" alt="Screenshot 2025-06-03 at 8 15 55 PM" src="https://github.com/user-attachments/assets/46cd1413-3f95-466b-8b96-300b689e46a5" />
+https://public.tableau.com/app/profile/chi.ngo8053/viz/StarbuckFood/Story1
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
